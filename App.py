@@ -37,12 +37,13 @@ class FileSendChecker(FileChecker):
 def main():
 
     # files
-    file  = "C/work/workiing.json"
-    file2 = "D/working/test.pdf"
+    file1  = "Files/mock_data.json"
+    file2 = "Files/kect108.pdf"
+    file3 = "Files/react.png"
 
     test = FileSendChecker()
-    test.add_file_to_send(file)
-    test.add_file_to_send(file)
+    test.add_file_to_send(file1)
+    test.add_file_to_send(file2)
 
     test.check_sent_file()   
 
