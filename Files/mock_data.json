@@ -1,0 +1,132 @@
+[
+    {
+        "_id": "61aff2a632517145860f2be5",
+        "trip_id": "61aff1fef5f1e2404a7c16d5",
+        "user_id": "",
+        "user_details": {
+            "id": "",
+            "name": "Sai Santhosh",
+            "email": "santhoshsai.2008@gmail.com",
+            "mobile": "+919853116993"
+        },
+        "tickets": [
+            {
+                "ticket_name": "test",
+                "ticket_price": 10,
+                "ticket_discount_price": 0,
+                "ticket_capacity": 40,
+                "ticket_notes": "",
+                "ticket_id": "709967",
+                "ticket_start": "12:00pm",
+                "ticket_end": "12:00pm",
+                "qty": 1
+            }
+        ],
+        "amount": {
+            "total": 10.3,
+            "currency": "INR"
+        },
+        "vendor": "56980041",
+        "booking_start_date": "2021-12-08T06:30:00.000Z",
+        "booking_end_date": "2021-12-09T06:30:00.000Z",
+        "nooftickets": 1,
+        "payment_status": true,
+        "created": "2021-12-07T23:47:50.162Z",
+        "payment": {
+            "provider": "tspay",
+            "link": "https://payments-test.cashfree.com/order/#nDDC3KO4HEaceXO6EMpM",
+            "order_id": "order_7927121ykm7QtTCEnCjvlakcvv2aUdZv",
+            "status": true
+        },
+        "iscalendar": true,
+        "order_id": "61aff2a632517145860f2be5",
+        "product_type": "experience"
+    },
+    {
+        "_id": "61b05ba5e466c71b512ef2d5",
+        "trip_id": "61b05830021ccf24c216aee2",
+        "user_id": "",
+        "user_details": {
+            "id": "",
+            "name": "Sai Santhosh",
+            "email": "santhoshsai.2008@gmail.com",
+            "mobile": "+919853116993"
+        },
+        "tickets": [
+            {
+                "ticket_name": "test",
+                "ticket_price": 100,
+                "ticket_discount_price": 0,
+                "ticket_capacity": 40,
+                "ticket_notes": "",
+                "ticket_id": "864004",
+                "qty": 5
+            }
+        ],
+        "amount": {
+            "total": 490.0,
+            "currency": "INR"
+        },
+        "vendor": "56980041",
+        "booking_start_date": "2021-12-18T06:30:00.000Z",
+        "booking_end_date": "2021-12-19T06:30:00.000Z",
+        "nooftickets": 5,
+        "payment_status": true,
+        "created": "2021-12-08T07:15:49.826Z",
+        "payment": {
+            "provider": "tspay",
+            "link": "https://payments-test.cashfree.com/order/#qJTYCjIjIVqBfDNyxiHJ",
+            "order_id": "order_7927121zdFxsZN6D9riVGnjimIFQEzF7",
+            "status": true
+        },
+        "slot_id": "61b05b2a308beb4f734df422",
+        "order_id": "61b05ba5e466c71b512ef2d5",
+        "product_type": "experience"
+    },
+    {
+        "_id": "633c1cfe54ccf901c17263c5",
+        "user_details": {
+            "name": "John",
+            "email": "",
+            "mobile": ""
+        },
+        "tickets": [],
+        "amount": {
+            "partial_payment": false,
+            "auto_update": false,
+            "discount": 0,
+            "ticketscost": 10000,
+            "total": "10000",
+            "convfee": 0,
+            "gst": 0,
+            "currency": "INR",
+            "due_date": "2022-10-16"
+        },
+        "vendor": "11685566",
+        "booking_start_date": "2022-10-18T00:00:00.000Z",
+        "booking_end_date": "2022-10-22T00:00:00.000Z",
+        "nooftickets": 0,
+        "payment_status": false,
+        "created": "2022-10-04T11:46:06.824Z",
+        "payment": {
+            "status": false
+        },
+        "order_type": "manual",
+        "order_name": "John Family trip",
+        "order_expiry": {
+            "time": "2022-10-11T11:46:06.825Z"
+        },
+        "order_id": "633c1cfe54ccf901c17263c5",
+        "slot_info": {
+            "start": "18 Oct",
+            "end": "22 Oct"
+        },
+        "updated": "2022-10-06T05:36:17.343Z",
+        "user": {
+            "name": "John",
+            "email": "",
+            "mobile": ""
+        },
+        "order_description": ""
+    }
+]
