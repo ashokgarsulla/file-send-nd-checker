@@ -1,5 +1,5 @@
 # file-send-nd-checker
-## Problem Statement:
+## Feature 1:
 1. Code to check only 2 files are sent. 
 2. Code to check from these 2 files - 1 is JSON and 1 is pdf. 
 3. Kindly make sure these are python scripts and include classes and functions.
@@ -18,3 +18,7 @@
     test.add_file_to_send(file1)
     test.add_file_to_send(file2)
 ```
+
+## Feature 2:
+- Develop code to scrap normal transactions
+- https://bscscan.com/txs
